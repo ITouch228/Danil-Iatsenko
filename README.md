@@ -5,7 +5,7 @@
 ## 🛠 Мой стек технологий
 
 *   **Фронтенд:** JavaScript (ES6+), React, Redux Toolkit, HTML5, CSS3
-*   **Бэкенд:** FastAPI (sqlalchemy, PyDantic, Asyncpg), Postgresql
+*   **Бэкенд:** FastAPI (sqlalchemy, orm, PyDantic), Postgresql
 *   **Инструменты:** Git, GitHub, npm
 
 ## 🚀 Мои ключевые проекты
