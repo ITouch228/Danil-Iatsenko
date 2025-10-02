@@ -19,7 +19,7 @@
 ## 📈 Моя активность на GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Codewars](https://www.codewars.com/users/your-username/badges/micro)](https://www.codewars.com/users/your-username)
+[![Codewars](https://www.codewars.com/users/ITouch228/badges/micro)](https://www.codewars.com/users/ITouch228)
 
 ## 📫 Как со мной связаться
 
